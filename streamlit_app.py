@@ -1,4 +1,4 @@
-import stremalit
+import streamlit
 
 streamlit.header('Breakfast Menu')
 
