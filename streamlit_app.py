@@ -26,7 +26,7 @@ fruits_to_show = my_fruit_list.loc[fruits_selected]
 
 streamlit.dataframe(fruits_to_show)
 
---Move the Fruityvice Code into a Try-Except (with a nested If-Else)
+#Move the Fruityvice Code into a Try-Except (with a nested If-Else)
 
 #new section to display fuityvice api response
 streamlit.header("Fruityvice Fruit Advice!")
